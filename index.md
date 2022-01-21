@@ -1,3 +1,1 @@
-# I am a page
-
-Great.
+# Page
